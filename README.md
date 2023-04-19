@@ -45,8 +45,11 @@ I'm a student at Imam Abdulrahman Bin Faisal University and I beginner programme
 
 :mailbox: Contact_info
 
-[![Twitter Badge](https://img.shields.io/badge/-@Naif4735-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Naif4735)](https://twitter.com/Naif4735) 
+<p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Naif/S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naif-alsahabi-085720249/)
+<a href="https://twitter.com/Naif4735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Naif4735" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/naif-alsahabi-085720249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naif AlSahabi" height="30" width="40" /></a>
 
-[![Mail Badge](https://img.shields.io/badge/-Naif4735-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Naif4735@gmail.com)
+</p>
+
+
+
