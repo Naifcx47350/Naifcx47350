@@ -27,11 +27,22 @@ I'm a student at Imam Abdulrahman Bin Faisal University and I am a beginner prog
 
 <br />
 
+---
+
 ### 📊 Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naifcx47350&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naifcx47350&show_icons=true&locale=en&theme=dark&background" alt="Naifcx47350" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naifcx47350&show_icons=true&locale=en&layout=compact&theme=dark&background" alt="Naifcx47350" /></p>
+
+
+
 #
+
+---
+
 :mailbox: Contact_info
 
 [![Twitter Badge](https://img.shields.io/badge/-@Naif4735-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Naif4735)](https://twitter.com/Naif4735) 
