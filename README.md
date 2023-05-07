@@ -2,7 +2,7 @@
 
 **`Student (beginner developer)`**
 
-I'm a student at Imam Abdulrahman Bin Faisal University and I beginner programmer. I have been coding for the past five year. I am passionate about technology, Artificial intelligence, coding, and problem-solving, which is why programming has become such an important part of my life. In my free time, I enjoy reading, checking tech Video/blogs or learing new skill to stay current on tech trends.
+I'm a student at Imam Abdulrahman Bin Faisal University and a beginner programmer. I have been coding for the past five year. I am passionate about technology, Artificial intelligence, coding, and problem-solving, which is why programming has become such an important part of my life. In my free time, I enjoy reading, checking tech Video/blogs or learing new skill to stay current on tech trends.
 
    <p align="left">
     
