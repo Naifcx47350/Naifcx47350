@@ -2,8 +2,11 @@
 
 **` Student (beginner developer)`**
 
-I'm an AI junior student at Imam Abdulrahman Bin Faisal University and a beginner programmer. I have been coding for the past five years. I am passionate about technology, Artificial intelligence, coding, and problem-solving, which is why programming has become essential to my life. In my free time, I enjoy reading, checking tech Videos/blogs, and learning new skills to stay current on tech trends.
+a dedicated AI undergraduate student at Imam Abdulrahman Bin Faisal University, and an emerging programmer with five enriching years of coding journey under my belt.
 
+💻 Coding isn't just a skill for me; it's a passion and a lifestyle. My intrigue for technology, the fascinating world of Artificial Intelligence and the thrill of problem-solving led me to the realm of programming. This passion fuels my everyday life, turning the complex into simple, the theoretical into practical, and ideas into solutions.
+
+✨ A lifelong learner at heart, I have an unwavering commitment to mastering new skills and staying updated with the evolving tech landscape. In my spare time, I delve into insightful tech blogs, enlightening videos, and engrossing books that satiate my thirst for knowledge.
    <p align="left">
     
    </p>
