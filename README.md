@@ -1,4 +1,4 @@
-# 🤖 Naifcx47350
+# Naifcx47350
 
 **` Student (beginner developer)`**
 
