@@ -36,8 +36,6 @@ a dedicated AI undergraduate student at Imam Abdulrahman Bin Faisal University, 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naifcx47350&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naifcx47350&show_icons=true&locale=en&theme=dark&background" alt="Naifcx47350" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naifcx47350&show_icons=true&locale=en&layout=compact&theme=dark&background" alt="Naifcx47350" /></p>
 
 
