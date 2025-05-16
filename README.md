@@ -1,6 +1,6 @@
 # Naifcx47350
 
-**` Student (beginner developer)`**
+**` Student (AI developer)`**
 
 a dedicated AI undergraduate student at Imam Abdulrahman Bin Faisal University, and an emerging programmer with five enriching years of coding journey under my belt.
 
