@@ -2,7 +2,7 @@
 
 **` Student (AI developer)`**
 
-a dedicated AI undergraduate student at Imam Abdulrahman Bin Faisal University, and an emerging programmer with five enriching years of coding journey under my belt.
+a dedicated AI graduate from Imam Abdulrahman Bin Faisal University, and an emerging programmer with five enriching years of coding journey under my belt.
 
 💻 Coding isn't just a skill for me; it's a passion and a lifestyle. My intrigue for technology, the fascinating world of Artificial Intelligence and the thrill of problem-solving led me to the realm of programming. This passion fuels my everyday life, turning the complex into simple, the theoretical into practical, and ideas into solutions.
 
