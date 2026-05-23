@@ -1,76 +1,117 @@
-# Naifcx47350
+<h1 align="center">Naif Alsahabi</h1>
 
-**` AI developer `**
+<h3 align="center">
+AI | Machine Learning | Computer Vision | NLP | LLMs
+</h3>
 
-a dedicated AI graduate from Imam Abdulrahman Bin Faisal University, and an emerging programmer with five enriching years of coding journey under my belt.
+<p align="center">
+I build practical AI projects, data-driven tools, and intelligent applications.
+</p>
 
-💻 Coding isn't just a skill for me; it's a passion and a lifestyle. My intrigue for technology, the fascinating world of Artificial Intelligence and the thrill of problem-solving led me to the realm of programming. This passion fuels my everyday life, turning the complex into simple, the theoretical into practical, and ideas into solutions.
-
-✨ A lifelong learner at heart, I have an unwavering commitment to mastering new skills and staying updated with the evolving tech landscape. In my spare time, I delve into insightful tech blogs, enlightening videos, and engrossing books that satiate my thirst for knowledge.
-   <p align="left">
-    
-   </p>
-
----
-
-### 🧰 Languages and Tools
-
-<!-- Languages -->
-<img align="left" alt="Python" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="JavaScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="HTML5" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<br/><br/>
-
-<!-- AI / ML / Data -->
-<img align="left" alt="TensorFlow" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="PyTorch" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="Scikit-learn" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-<img align="left" alt="Pandas" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Matplotlib" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
-<img align="left" alt="OpenCV" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
-
-<br/><br/>
-
-<!-- Web / App Development -->
-<img align="left" alt="React" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind CSS" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="FastAPI" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-<img align="left" alt="Streamlit" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
-
-<br/><br/>
-
-<!-- Tools / Deployment -->
-<img align="left" alt="Docker" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Google Cloud" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="Jupyter" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="VS Code" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-
-
-<br/><br/>
-#
-
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/naif-alsahabi-085720249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Naif%20Alsahabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-#
+## Overview
+
+I’m an Artificial Intelligence graduate from Imam Abdulrahman Bin Faisal University.
+
+My work focuses on building practical AI systems across machine learning, computer vision, NLP, LLM applications, and data dashboards. I enjoy turning raw data, models, and ideas into working tools that can be tested, improved, and used.
+
+Currently, I’m expanding my AI engineering skills through the SDA AI Engineering Bootcamp, with more focus on applied AI systems, deployment workflows, and production-oriented project development.
 
 ---
 
-:mailbox: Contact_info
+## Areas I Work On
 
-<p align="left">
+```text
+Machine Learning        → model training, evaluation, prediction systems
+Computer Vision         → video/image analysis, feature extraction
+NLP / LLMs              → text analysis, summarization, RAG concepts
+AI Dashboards           → analytics platforms, Streamlit, React interfaces
+AI Engineering          → APIs, Docker, deployment-ready workflows
+```
 
-<a href="https://twitter.com/Naif4735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Naif4735" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/naif-alsahabi-085720249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naif AlSahabi" height="30" width="40" /></a>
+---
 
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Naifcx47350&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
+## Tech Stack
 
+### Languages
+
+<p>
+  <img alt="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Java" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="C++" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="JavaScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="HTML5" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</p>
+
+### AI / ML / Data
+
+<p>
+  <img alt="TensorFlow" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+  <img alt="PyTorch" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
+  <img alt="Scikit-learn" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img alt="Pandas" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+  <img alt="NumPy" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+  <img alt="Matplotlib" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+  <img alt="OpenCV" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
+</p>
+
+### Apps / Tools
+
+<p>
+  <img alt="React" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Tailwind CSS" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img alt="FastAPI" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+  <img alt="Streamlit" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+  <img alt="Docker" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Google Cloud" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+  <img alt="Jupyter" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+  <img alt="VS Code" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+</p>
+
+---
+
+## Project Areas
+
+<table>
+  <tr>
+    <td><b>AI Analytics</b></td>
+    <td>Social data analysis, KPI insights, trend monitoring, sentiment tracking, and dashboards.</td>
+  </tr>
+  <tr>
+    <td><b>Computer Vision</b></td>
+    <td>Video-based analysis, frame processing, medical AI experiments, and feature extraction.</td>
+  </tr>
+  <tr>
+    <td><b>NLP / LLMs</b></td>
+    <td>Text analysis, summarization, prompt workflows, retrieval concepts, and AI assistants.</td>
+  </tr>
+  <tr>
+    <td><b>Anomaly Detection</b></td>
+    <td>Autoencoder-based detection, unusual pattern analysis, and model evaluation.</td>
+  </tr>
+  <tr>
+    <td><b>Applied AI Tools</b></td>
+    <td>Streamlit apps, React dashboards, APIs, and deployment-ready prototypes.</td>
+  </tr>
+</table>
+
+---
