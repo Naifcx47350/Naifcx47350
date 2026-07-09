@@ -12,6 +12,7 @@ I build practical AI projects, data-driven tools, and intelligent applications.
   <a href="https://www.linkedin.com/in/naif-alsahabi-085720249/">
     <img src="https://img.shields.io/badge/LinkedIn-Naif%20Alsahabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
 ---
 
 ## Overview
