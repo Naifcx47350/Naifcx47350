@@ -43,8 +43,9 @@ AI Engineering          → APIs, Docker, deployment-ready workflows
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Naifcx47350&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="[https://streak-stats.demolab.com?user=Naifcx47350&theme=tokyonight&hide_border=true](https://github-readme-streak-stats-eight.vercel.app?user=Naifcx4735&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)" alt="GitHub Streak" />
 </p>
+
 
 
 ## Tech Stack
