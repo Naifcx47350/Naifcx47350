@@ -9,9 +9,7 @@ I build practical AI projects, data-driven tools, and intelligent applications.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naif-alsahabi-085720249/">
-    <img src="https://img.shields.io/badge/LinkedIn-Naif%20Alsahabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img height="165" src="https://my-streak-stats.vercel.app?user=Naifcx47350&theme=dark&hide_border=true&date_format=d/m/[Y]&ring=E63950&fire=E63950&currStreakLabel=E63950&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E4E2E2&dates=9E9E9E&background=0D0D0F" alt="GitHub Streak" />
 </p>
 
 ---
