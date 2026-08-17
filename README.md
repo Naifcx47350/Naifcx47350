@@ -84,7 +84,6 @@ AI Engineering          → APIs, Docker, deployment-ready workflows
   <img alt="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="Google Cloud" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
   <img alt="Jupyter" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-  <img alt="VS Code" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
